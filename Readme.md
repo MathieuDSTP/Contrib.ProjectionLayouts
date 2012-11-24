@@ -6,7 +6,7 @@ This module adds two new types of layouts to the Projections feature, _Raw Layou
 
 This is a generalization of the _List Layout_ and lets you define a specific HTML tag for the container and also for each item in the list.
 
-Besides, you can decide to inject some custom HTML at the beginning of the lis, at the end and also between the items.
+Besides, you can decide to inject some custom HTML at the beginning or at the end of the list, and also between the items.
 
 ## Shape Layout
 
