@@ -57,8 +57,8 @@ namespace Contrib.ProjectionLayouts.Layouts {
                 first = false;
             }
 
-            if (!String.IsNullOrEmpty(Prepend)) {
-                Output.Write(Prepend);
+            if (!String.IsNullOrEmpty(Append)) {
+                Output.Write(Append);
             }
 
             if (containerTag != null) {
