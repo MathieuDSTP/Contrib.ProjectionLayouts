@@ -2,7 +2,7 @@
 AntiForgery: enabled
 Author: Sébastien Ros
 Website: http://orchardproject.net
-Version: 1.0
+Version: 1.0.1
 OrchardVersion: 1.4
 Description: More projection layouts
 Features:
